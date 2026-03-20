@@ -1,16 +1,25 @@
-## Hi there 👋
+# Giorgio Fiorentino
 
-<!--
-**Giorgio-Fiorentino/Giorgio-Fiorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Business Analytics @ ESADE Barcelona  
+Background in Management Engineering (University of Bologna)
 
-Here are some ideas to get you started:
+Interested in applied ML, data pipelines, and turning messy 
+data into decisions that stick.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical skills:** Python (pandas, scikit-learn) · SQL · R · 
+AWS · Git · Streamlit
+
+**Languages:** Italian · English · Spanish
+
+📍 Barcelona, Spain  
+📧 giorgio.fiorentino@alumni.esade.edu  
+🔗 [linkedin.com/in/giorgio-fiorentino](https://linkedin.com/in/giorgio-fiorentino)
+
+---
+
+## Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [digital_wallet_prototype](https://github.com/Giorgio-Fiorentino/digital_wallet_prototype) | Python · Streamlit · scikit-learn | AI-powered multi-card transaction analyser with NLP categorisation and active learning loop |
+| [aws-document-pipeline](https://github.com/davidpuchala/aws-document-pipeline) | AWS · Python · scikit-learn | Serverless ML pipeline for automated document classification and routing (team project) |
