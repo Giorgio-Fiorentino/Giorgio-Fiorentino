@@ -22,4 +22,4 @@ AWS · Git · Streamlit
 | Project | Stack | Description |
 |---|---|---|
 | [digital_wallet_prototype](https://github.com/Giorgio-Fiorentino/digital_wallet_prototype) | Python · Streamlit · scikit-learn | AI-powered multi-card transaction analyser with NLP categorisation and active learning loop |
-| [aws-document-pipeline]((https://github.com/Giorgio-Fiorentino/aws-document-pipeline))(https://github.com/Giorgio-Fiorentino/aws-document-pipeline) | AWS · Python · scikit-learn | Serverless ML pipeline for automated document classification and routing (team project) |
+| [aws-document-pipeline](https://github.com/Giorgio-Fiorentino/aws-document-pipeline)(https://github.com/Giorgio-Fiorentino/aws-document-pipeline) | AWS · Python · scikit-learn | Serverless ML pipeline for automated document classification and routing (team project) |
